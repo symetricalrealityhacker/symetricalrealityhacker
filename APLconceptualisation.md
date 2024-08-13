@@ -254,3 +254,12 @@ a3 2 3
 f1 
 e1 
 Gravity
+
+
+Understanding Line Breaks in APL
+1. Single-Line Execution:
+APL was designed so that all code could be written on a single line, meaning the entire program or function could be on one line without affecting its execution.
+This allows for compact and continuous writing of code, where each statement is sequentially processed.
+2. Line Breaks as Execution Barriers:
+If a line break is introduced, it acts as a barrier, breaking the sequence of execution. This would mean the code on the next line wouldn't automatically continue from the previous line unless explicitly connected.
+This could be used intentionally to separate code segments or make the code more readable.
