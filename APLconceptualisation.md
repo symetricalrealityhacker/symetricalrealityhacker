@@ -1,7 +1,7 @@
- Basic Syntax and Structure
+Basic Syntax and Structure
 
  
-APL proposes an innovative approach where alphabetic symbols,
+Alphabet Programming Language (APL) proposes an innovative approach where alphabetic symbols,
 supplemented by numeric suffixes, are used to represent core programming functionalities.
 The language is designed to be highly flexible, allowing multiple operations to be defined on a single line.
 
