@@ -2,7 +2,7 @@
 
 **`pgen`** is a powerful feature within the Alphabetic Programming Language (APL) designed to enable procedural 
 generation of environments, objects, and actions. 
-It simplifies the creation of complex systems by providing a set of presets found in different Libaries with code transltor, that can be used to automatically generate various aspects of a program or application. 
+It simplifies the creation of complex systems by providing a set of presets found in different Libaries/Engines with code translator tool, that can be used to automatically generate various aspects of a program or application. 
 This summary outlines the core functions and descriptions of `pgen`, including its operation, preset categories, and usage.
 
 ---
@@ -76,9 +76,11 @@ Function and Action Presets (Third Digit):
 7: User Input-Driven Actions
 8: Network Synchronization
 9: Dynamic Response
+
 2. Create a Detailed Preset Library
 
-
+Should pull assets/codes from multiple Libaries and Engines.
+Rewritting or Importing it automatically into APL for usage.
 
 #### **4. Examples of `pgen` Usage**
 
