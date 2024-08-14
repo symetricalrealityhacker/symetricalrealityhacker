@@ -1,0 +1,33 @@
+Notes:As a single self learing student. I have Years ahead of me for the reason.
+APL is stays as a concept for a long Time.
+This Project may take a decade do to the lack of help.
+Find Team in Computational Sciences.  
+
+Structering
+1.In Python:
+1.1 Use Lexer.
+1.2 Write APL (First)
+1.3 Write pgen (Second)
+1.4. Write qgen (thirth)
+1.5 Integrate multiplatform API as Container
+1.6 abstract syntax tree (AST)
+1.7 Implement Security Features
+
+2. Port Libaries from different Programming Languages. 
+2.1 Port/Pull Assets from different Engines. 
+2.2 Create a specialized Editor with acts like a engine (imbeded point 2 and 2.1) with 2 optional 
+interfaces, one as a pop-up option and second as a sideway option. that let you: 
+*Translate the code into different Programming languages or shows it in a choosen Programming Language.
+*Interacts with pgen pulls 2.1 and 2.1 for choosen Integration.
+*Allows/Pulls to modfiy the code of the asset. 
+
+3. Testphase
+3.1 Run Simple AI written Program for testing.  
+3.2 Debbug and improvements 
+3.3 Create first Game with it.
+
+4. Distribution
+4.1 Distribute on Github
+4.2 Create own Website.
+4.3 Port Documentation
+
