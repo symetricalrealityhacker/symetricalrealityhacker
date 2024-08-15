@@ -246,6 +246,10 @@ Each asset is tagged with relevant terms or pins that describe its functionality
 Gravity is a command when invoked, temporarily splits and spaces out the code for easier reading and debugging. 
 After one hour, the code automatically reverts to its original form. The word Gravity deletes automatically after the given Time. 
 With the ^ symbol extends the Gravity effect by one additional hour.
+Delete Gravity with reversing the word in between the command-line: ytivarG
+This Method is specially constructed so you pay attention to you coding. 
+Better do not make mistakes. 
+
 
 Example for 5 Hours:
 Gravity^^^^^
@@ -255,6 +259,22 @@ f1
 e1 
 Gravity
 
+Command:
+Modulus
+Is written first and last as a closer.
+APL then uses the Quantum Libaries/backround-mathematical function/modification
+to easy code.
+
+Modulus
+a1 5 10
+a3 2 3
+f1 
+e1 
+Modulus
+
+Command
+Photon
+Does nothing for now. As Photonic CPUs are in prototype phase.
 
 Understanding Line Breaks in APL
 1. Single-Line Execution:
