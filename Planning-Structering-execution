@@ -55,10 +55,14 @@ with each qubit having its own thread of execution.
 
 6.In Future:
 6.1 Port APL to Photonic CPU Architecture.
-6.2 Add Commad #Photon# to switch mode.
-6.3 APL code should be easier portable to Photonic CPUs. 
+6.2 Add Commad "Photon" to switch mode.
+6.3 APL code/programms should be easier portable to Photonic CPUs. 
 
-Notes: forward porting/backporting of software is important in APL. 
-As it should work on multi-generation of Architecture. 
+Notes: 
+
+1.forward porting/backporting of software is important in APL. 
+2.As it should work on multi-generation of Architecture. 
 Example: Digital CPUs -> Photonic CPUs - -> Quantum Computers. 
-
+3. APL might get more function add up in APLconceptualisation.
+Still not sure if we need any Symbols for doing Math. If need then add up.
+Remember it should be pre-school simple.
