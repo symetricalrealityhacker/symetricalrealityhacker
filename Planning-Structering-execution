@@ -31,3 +31,16 @@ interfaces, one as a pop-up option and second as a sideway option. that let you:
 4.2 Create own Website.
 4.3 Port Mutlilingual Documentation
 
+5.Experimental Modes.
+5.1 Impliment Quantum Computing Liberies.
+5.2 Translate QCL to APL for easy coding on Quantum Computing.
+5.3 Operation Mode is based on 5-10 logical Qbits. 
+Everthing above is a risk factor and mostly speculative. 
+Altough Logical Qbits can go up to 48. Function reduction get a higher stability/function rate.
+5.4 incorporate error correction techniques or 
+rely on external quantum simulators for accurate results.
+5.5 Pose command modification from python to act as a quantum intepreter; 
+each qubit being treated as a thread would imply that the 
+execution of quantum operations on qubits occurs in parallel, 
+with each qubit having its own thread of execution.
+
