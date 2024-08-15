@@ -49,4 +49,6 @@ rely on external quantum simulators for accurate results.
 each qubit being treated as a thread would imply that the 
 execution of quantum operations on qubits occurs in parallel, 
 with each qubit having its own thread of execution.
-
+5.6 Error correction is done with C - Control Flow (APL) adding up to 48 logical qbits. 
+As modern quantum computers can create 48 Logical qubits. 
+Setting always one Qbit up.
