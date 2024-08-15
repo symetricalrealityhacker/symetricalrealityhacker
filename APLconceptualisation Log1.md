@@ -262,7 +262,7 @@ Gravity
 Command:
 Modulus
 Is written first and last as a closer.
-APL then uses the Quantum Libaries/backround-mathematical function/modification
+APL then uses the Quantum libaries/backround-mathematical function/modification
 to easy code.
 
 Modulus
@@ -274,7 +274,7 @@ Modulus
 
 Command
 Photon
-Does nothing for now. As Photonic CPUs are in prototype phase.
+Does nothing for now. As photonic CPUs are in prototype phase.
 
 Understanding Line Breaks in APL
 1. Single-Line Execution:
