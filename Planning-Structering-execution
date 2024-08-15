@@ -12,6 +12,12 @@ Structering
 1.5 Integrate multiplatform API as Container
 1.6 abstract syntax tree (AST)
 1.7 Implement Security Features
+1.8 Add 'Parameter reduction functionality' with means it procedial generation adjust to hardware. 
+Adjustments should be given with a editor interface 
+for option to choose what precetage is usage from the GPU or CPU.
+1.8.2.2 Add up Cloud based netport with simple interface/input
+trough ip,docker,http.
+
 
 2. Port Libaries from different Programming Languages. 
 2.1 Port/Pull Assets from different Engines. 
